@@ -1,5 +1,7 @@
 # llm-locally
 
+[WIP] Project Under development
+
 ## Description
 
 This project is called llm-locally. The project allows you to run a llm locally and use an example to test the llm.
